@@ -1,0 +1,29 @@
+{
+  "name": "@piyushagade/waterfall",
+  "version": "1.0.2",
+  "description": "Create waterfall tasks, execute them sequentially or asynchronously, and manage task metadata.",
+  "main": "waterfall.js",
+	"author": {
+		"name": "Piyush Agade",
+		"email": "piyushagade@gmail.com",
+		"url": "https://piyushagade.xyz"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushagade/waterfall.git"
+  },
+  "keywords": [
+    "waterfall",
+    "synchronous",
+    "task",
+    "execution"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushagade/waterfall/issues"
+  },
+  "homepage": "https://github.com/piyushagade/waterfall#readme"
+}
